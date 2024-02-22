@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React.js and DSA**
 
-- 📫 How to reach me **mittalprem77@gmail.com**
+- 📫 How to reach me **premmittal88@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
