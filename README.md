@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prem Mittal</h1>
 <h3 align="center">A passionate full stack developer</h3>
 
-- 🔭 I’m currently working on **E-commerce project**
 
-- 🌱 I’m currently learning **React.js and DSA**
 
 - 📫 How to reach me **premmittal88@gmail.com**
 
